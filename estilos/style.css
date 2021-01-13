@@ -14,3 +14,15 @@ main {
     padding:  10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
+
+img.lado {
+    float: right;
+}
+
+img.meio {
+    float: left;
+}
+
+h1.lado {
+    float: right;
+}
